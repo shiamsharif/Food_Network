@@ -1,0 +1,118 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 60px;
+    color: #161515a6;
+}
+
+h2 {
+    font-size: 35px;
+    color: #161515a6;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+p {
+    color: #5e5151b0;
+    margin-bottom: 40px;
+}
+
+.flexiable {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half_width {
+    width: 50%;
+    padding-left: 3%;
+}
+
+half_width img {
+    width: 90%;
+}
+
+.orange_colour {
+    color: orangered;
+}
+
+.link_button {
+    text-decoration: none;
+    background-image: linear-gradient(orangered, orange);
+    padding: 10px 40px;
+    color: aliceblue;
+    width: 700;
+    border-radius: 20px;
+}
+
+.background {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+    text-align: center;
+    width: 40%;
+    padding-left: 27.5%;
+}
+
+.onethird {
+
+    padding: 20px 40px;
+    width: 33.3%;
+    text-align: center;
+}
+
+.onethird img {
+    width: 90%;
+}
+
+/* .three_card {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+} */
+
+.box {
+    margin: 0 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+.big_box {
+    margin: 0 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+}
+
+.black_background {
+    background-color: black;
+    padding: 100px 0;
+    color: aliceblue;
+    margin-top: 50px;
+
+}
+
+.black_background h2 {
+    color: whitesmoke;
+}
+
+.top_padding {
+    padding-top: 150px;
+}
+
+.padding2nd {
+    padding-top: 50px;
+    padding-right: 20px;
+}
+
+.flex {
+    display: flex;
+
+}
